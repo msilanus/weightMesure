@@ -39,7 +39,7 @@ La tension de mesure proportionnelle à la masse pesée est prise entre A+ et A-
 
 ## Mesure ##
 
-La tension Vo en sortie du pont est trop faible pour être exploitée directement par le CNA d'Arduino. On peut utiliser un CNA 24 bits qui permettra d'avoir une meilleure résolution ou encore un amplificateur différentiel. 
+La tension Vo en sortie du pont est trop faible pour être exploitée directement par le CAN d'Arduino. On peut utiliser un CNA 24 bits qui permettra d'avoir une meilleure résolution ou encore un amplificateur différentiel. 
 
 ### Choix d'un module ###
 
